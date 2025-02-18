@@ -1,6 +1,23 @@
 ---
 ## Front matter
 lang: ru-RU
+title: Лабораторная работа 2
+subtitle: 1132232887
+author:
+  - Накова А. М.
+institute:
+  - Российский университет дружбы народов, Москва, Россия
+  - date: 17.02.2025
+
+## i18n babel
+babel-lang: russian
+babel-otherlangs: english
+
+
+
+---
+## Front matter
+lang: ru-RU
 title: Структура научной презентации
 subtitle: Простейший шаблон
 author:
